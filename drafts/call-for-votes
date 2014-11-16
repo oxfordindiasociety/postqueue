@@ -1,0 +1,61 @@
+Dear members,
+
+This is the first call for votes for the OIS Committee 2015 Elections.
+
+     Voting period starts      00:00:00 UTC on Monday, November 24th, 2014
+     Votes must be received by 23:59:59 UTC on Friday, November 28th, 2014
+
+For voting questions or problems contact systems@oxfordindiasociety.org.uk
+
+The details of the candidate platform can be found at:
+http://elections.oxfordindiasociety.org.uk/platforms/
+
+HOW TO VOTE
+
+First, read the full text of the platform.
+
+To cast a vote, it is necessary to send this ballot filled out to a
+dedicated e-mail address, in a signed message, as described below.
+The dedicated email address this ballot should be sent to is:
+
+  vote2015@oxfordindiasociety.org.uk
+
+The form you need to fill out is contained at the bottom of this
+message, marked with two lines containing the characters
+'-=-=-=-=-=-'. Do not erase anything between those lines, and do not
+change the choice names.
+
+There are 2 choices in the form, which you may rank with numbers between
+1 and 2. In the brackets next to your preferred choice, place a 1.
+Place a 1 in the brackets next to your next choice. Continue until you
+reach your last choice.  Do not enter a number smaller than 1 or larger than 3.
+
+You may skip numbers, leave some choices unranked, and rank options
+equally.  Unranked choices are considered equally the least desired
+choices, and ranked below all ranked choices.
+
+To vote "no, no matter what", rank "None Of The Above" as more desirable
+than the unacceptable choices, or you may rank the "None Of The Above"
+choice and leave choices you consider unacceptable blank.  (Note: if the
+"None Of The Above" choice is unranked, then it is equal to all other
+unranked choices, if any -- no special consideration is given to the
+"None Of The Above" choice by the voting software).
+
+Finally, mail the filled out ballot to: leader2014@vote.debian.org.
+
+Don't worry about spacing of the columns or any quote characters (">") that
+your reply inserts.
+
+NOTE: The vote must be GPG signed (or PGP signed) with your key that is
+in the Debian keyring.  You may, if you wish, choose to send a signed,
+encrypted ballot: use the vote key appended below for encryption.
+
+- - -=-=-=-=-=- Don't Delete Anything Between These Lines =-=-=-=-=-=-=-=-
+9210c556-9aea-47b8-95e5-bfc1da8405d9
+[   ] Choice 1: A
+[   ] Choice 2: B
+[   ] Choice 3: Re-Open Nominations
+- - -=-=-=-=-=- Don't Delete Anything Between These Lines =-=-=-=-=-=-=-=-
+
+Regards
+Abhishek
